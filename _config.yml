@@ -1,5 +1,5 @@
 # Site
-# repository: sproogen/resume-theme
+repository: sproogen/resume-theme
 favicon: images/favicon.ico
 
 # Content configuration version
@@ -8,32 +8,32 @@ version: 2
 # Personal info
 name: Saurav Sharma
 title: Full Stack Programmer
-# email: brett.h@email.co.uk
-# website: www.github.com/sproogen/resume-theme
+email: saurav31189@gmail.com
+website: https://sk-sharma-in.github.io/profile
 
 # Dark Mode (true/false/never)
-darkmode: true
+darkmode: false
 
 # Social links
-twitter_username: facespics
-github_username:  sproogen
+twitter_username: saurav_sharma_3
+github_username:  sk-sharma-in
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
-instagram_username: jameswgrant
-linkedin_username: jameswgrant
+instagram_username: 100.ruv
+linkedin_username: sauravsharma3
 # xing_username: jekyll
 # pinterest_username: jekyll
-youtube_username: globalmtb
+# youtube_username: globalmtb
 # googleplus_username: +jekyll
 # orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
-additional_links:
-- title: itsgoingto.be
-  icon: fas fa-globe
-  url: https://www.itsgoingto.be
+# additional_links:
+# - title: itsgoingto.be
+#   icon: fas fa-globe
+#   url: https://www.itsgoingto.be
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)

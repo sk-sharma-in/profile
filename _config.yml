@@ -1,18 +1,18 @@
 # Site
-repository: sproogen/resume-theme
+# repository: sproogen/resume-theme
 favicon: images/favicon.ico
 
 # Content configuration version
 version: 2
 
 # Personal info
-name: Brett Harris
-title: Senior Network System Administrator
-email: brett.h@email.co.uk
-website: www.github.com/sproogen/resume-theme
+name: Saurav Sharma
+title: Full Stack Programmer
+# email: brett.h@email.co.uk
+# website: www.github.com/sproogen/resume-theme
 
 # Dark Mode (true/false/never)
-darkmode: false
+darkmode: true
 
 # Social links
 twitter_username: facespics

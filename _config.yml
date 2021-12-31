@@ -32,8 +32,8 @@ linkedin_username: sauravsharma3
 # Additional icon links
 additional_links:
  - title: itsgoingto.be
-   icon: fas fa-globe
-   url: https://www.itsgoingto.be
+   icon: fab fa-whatsapp
+   url: https://wa.me/
  - title: another link
    icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
    url: Link url (eg. https://google.com)
